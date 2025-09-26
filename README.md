@@ -62,7 +62,6 @@ streamlit run app.py
 ## 📊 Model Information
 - **Algorithm:** Random Forest Classifier
 - **Features Used:** Pclass, Sex, Age, SibSp, Parch, Embarked
-- **Accuracy:** (You can add your model’s accuracy here after evaluation)
 
 ---
 
